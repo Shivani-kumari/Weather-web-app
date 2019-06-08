@@ -1,2 +1,2 @@
 # Weather web app
-![GitHub Logo](/src/bg.jpg)
+![GitHub Logo](weather.PNG)
